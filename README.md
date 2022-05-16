@@ -2,7 +2,7 @@
 <h3 align="center">A passionate future Full Stack developer from Nepal</h3>
 
 <h3 align="left">Follow:</h3>
-<p><a href="https://www.buymeacoffee.com/Be in touch"> <img align="left" src="https://www.clipartmax.com/png/middle/221-2216058_please-follow-me-i-want-to-get-100-followers-sign.png" height="50" width="210" alt="Be in touch" /></a>
+<p><a href="https://www.buymeacoffee.com/Be in touch"> <img align="left" src="https://www.pngfind.com/pngs/m/10-102973_png-file-svg-follow-me-on-instagram-logo.png" height="50" width="210" alt="Be in touch" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sid20-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="sid20-rgb" /> </p>
 
