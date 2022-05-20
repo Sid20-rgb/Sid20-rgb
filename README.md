@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sid</h1>
-<h3 align="center">A passionate future Full Stack developer from Nepal</h3>
+<h3 align="center">I am a Student</h3>
 
 <!-- <h3 align="left">Follow:</h3> -->
 <p><a href="https://www.buymeacoffee.com/Be in touch"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Be in touch" /></a><a href="https://ko-fi.com/Follow"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Follow" /></a></p><br><br>
