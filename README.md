@@ -15,9 +15,9 @@
 <p align="center">
     <a href="https://github.com/Sid20-rgb/calculator"><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
     <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/zNZbPky/driverdai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
-    <a href="https://github.com/Sid20-rgb/NotepadPlagDetector"><img align="center" title="NotePad Plagiarism Detector" src="https://www.wikigain.com/wp-content/uploads/2018/11/seobanner.png" alt="yt" style="width: 50px; height:50px;"></a>
+    <a href="https://github.com/Sid20-rgb/NotepadPlagDetector"><img align="center" title="NotePad Plagiarism Detector" src="https://w7.pngwing.com/pngs/773/62/png-transparent-cisco-systems-plagiarism-detection-router-business-business-text-service-people.png" alt="yt" style="width: 70px; height:50px;"></a>
     <br>
-    <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://www.clipartmax.com/png/middle/67-675660_managing-inventory-is-something-crucial-for-any-business-stock-management-system-logo.png" alt="fb" style="width: 40px; height:40px;"></a>
+    <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://www.clipartmax.com/png/middle/67-675660_managing-inventory-is-something-crucial-for-any-business-stock-management-system-logo.png" alt="fb" style="width: 60px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" style="width: 90px; height:90px;" ></a>
      
 <!-- </div> -->
