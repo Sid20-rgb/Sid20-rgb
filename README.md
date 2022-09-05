@@ -15,9 +15,9 @@
 <p align="center">
     <a href="https://github.com/Sid20-rgb/calculator"><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
     <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/zNZbPky/driverdai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
-    <a href="https://github.com/Sid20-rgb/NotepadPlagDetector"><img align="center" title="NotePad Plagiarism Detector" src="https://w7.pngwing.com/pngs/773/62/png-transparent-cisco-systems-plagiarism-detection-router-business-business-text-service-people.png" alt="yt" style="width: 50px; height:50px;"></a>
+    <a href="https://github.com/Sid20-rgb/NotepadPlagDetector"><img align="center" title="NotePad Plagiarism Detector" src="https://www.plagaware.com/gfx/content/menuIco/search.png" alt="yt" style="width: 50px; height:50px;"></a>
     <br>
-    <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://cdn.imgbin.com/10/18/7/imgbin-inventory-management-software-warehouse-management-system-warehouse-blue-and-black-computer-AY4JATu3MDrxcrLuy2MmpyFGN.jpg" alt="fb" style="width: 40px; height:40px;"></a>
+    <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://w7.pngwing.com/pngs/98/732/png-transparent-clipboard-with-box-art-inventory-management-software-point-of-sale-e-commerce-warehouse-miscellaneous-text-retail-thumbnail.png" alt="fb" style="width: 40px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" style="width: 90px; height:90px;" ></a>
      
 <!-- </div> -->
@@ -39,6 +39,7 @@
 <img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://www.computerhope.com/jargon/j/javascript.png" alt="JS" width="35" height="35"/>
 <img src="https://1000logos.net/wp-content/uploads/2021/10/Canva-logo.png" alt="Canva" width="50" height="40"/>
 <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/>
 </p>
