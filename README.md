@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
-<h3> 🕸️ I'm well-organized in web development front-end technologies like HTML, CSS, JavaScript and designing stuffs.</h3>
+<h3> 💻 I'm well-organized in web development front-end technologies like HTML, CSS, JavaScript and designing stuffs.</h3>
 
 <br>
 
@@ -15,9 +15,9 @@
 <p align="center">
     <a href="https://github.com/Sid20-rgb/calculator"><img align="center" title="Calculator" src="https://i.imgur.com/JDzrSoW.png" height="40" width="40" ></a>
     <a href="https://github.com/Shasmit/Driver-Dai.git"><img align="center" title="Driver Dai" src="https://i.ibb.co/zNZbPky/driverdai.png" alt="driver-dai" style="width: 80px; height:80px;"></a>
-    <a href="https://github.com/Sid20-rgb/NotepadPlagDetector"><img align="center" title="NotePad Plagiarism Detector" src="https://www.seekpng.com/png/full/232-2329769_plagiarism-check.png" alt="yt" style="width: 50px; height:50px;"></a>
+    <a href="https://github.com/Sid20-rgb/NotepadPlagDetector"><img align="center" title="NotePad Plagiarism Detector" src="https://w7.pngwing.com/pngs/773/62/png-transparent-cisco-systems-plagiarism-detection-router-business-business-text-service-people.png" alt="yt" style="width: 50px; height:50px;"></a>
     <br>
-    <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://img1.pnghut.com/10/14/3/nqGa52kzmH/logo-shopping-cart-content-management-system-bg-area.jpg" alt="fb" style="width: 40px; height:40px;"></a>
+    <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://www.clipartmax.com/png/middle/67-675660_managing-inventory-is-something-crucial-for-any-business-stock-management-system-logo.png" alt="fb" style="width: 40px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" style="width: 90px; height:90px;" ></a>
      
 <!-- </div> -->
@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" alt="Dart" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/>
-<img src="https://e7.pngegg.com/pngimages/602/440/png-clipart-javascript-open-logo-number-js-angle-text.png" alt="JS" width="40" height="40"/>
+<img src="https://www.computerhope.com/jargon/j/javascript.png" alt="JS" width="35" height="35"/>
 </p>
 
 
