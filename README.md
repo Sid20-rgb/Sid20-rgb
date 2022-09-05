@@ -45,7 +45,6 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasmit&show_icons=true&theme=dark&title_color=6adbd9&hide_border=true&locale=en&layout=compact" alt="shasmit" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid20-rgb&show_icons=true&locale=en&layout=compact" alt="sid20-rgb" /></p>
 
