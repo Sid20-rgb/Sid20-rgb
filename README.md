@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
-<h3> 💻 I'm well-organized in web development front-end technologies like HTML, CSS, JavaScript and designing stuffs.</h3>
+<h3> 💻 I'm well-organized in mobile application and web development front-end technologies like Flutter, HTML, CSS, JavaScript and designing stuffs.</h3>
 
 <br>
 
