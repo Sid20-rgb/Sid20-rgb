@@ -19,6 +19,7 @@
     <br>
     <a href="https://github.com/Sid20-rgb/Store_Management_System"><img align="center" title="Store Management System" src="https://www.clipartmax.com/png/middle/67-675660_managing-inventory-is-something-crucial-for-any-business-stock-management-system-logo.png" alt="fb" style="width: 40px; height:40px;"></a>
     <a href="https://github.com/Shasmit/Recycle-IT.git"><img align="center" title="Recycle-IT" src="https://i.ibb.co/7RbxSsC/logo.png" style="width: 90px; height:90px;" ></a>
+    <img align="center" title="Recycle-IT" src="https://i.ibb.co/hRhrSPw/Passportpals-Logo.png" style="width: 90px; height:90px;" >
      
 <!-- </div> -->
 
