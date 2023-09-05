@@ -2,10 +2,15 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shasmit&label=Profile%20views&color=02ede9&style=plastic" alt="shasmit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sid20-rgb&label=Profile%20views&color=02ede9&style=plastic" alt="sid20-rgb" /> </p>
 <h3> 💻 I'm well-organized in mobile application and web development front-end and back-end technologies like Flutter, HTML, CSS, JavaScript, ReactJS, NEXT.JS, Flask, NODE.JS and designing through Figma, Canva, Adobe Illustrator.</h3>
 
 <br>
+
+<div  align="center">
+
+<a href="https://www.linkedin.com/in/siddhartha-shakya-3932a5221/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
+</div>
 
 <h2 align="center">Projects I have worked on:</h3>
 
@@ -25,30 +30,46 @@
 
 
 
-<h2 align="center">Languages I know:</h3>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/640px-Dart-logo.png" alt="Dart" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C" width="40" height="40"/>
-<img src="https://www.computerhope.com/jargon/j/javascript.png" alt="JS" width="35" height="35"/>
-</p>
+#### Languages I know
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+#### Frameworks/Library
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=00000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
+
+
+#### CSS Framework/Library
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
+
+#### Design/Visual Tools
+![Figma](https://img.shields.io/badge/-figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
+
+#### Database
+![MySQL](https://img.shields.io/badge/mysql-000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+
+#### Backend
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23000.svg?style=for-the-badge&logo=node.js&logoColor=6FA760)
+
+#### Version Control
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
 <br>
-<h2 align="center">Tools and Technologies i'm familiar with:</h3>
-<p align="center"> 
-<img src="https://user-images.githubusercontent.com/51419598/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png" alt="Flutter" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://1000logos.net/wp-content/uploads/2021/10/Canva-logo.png" alt="Canva" width="50" height="40"/>
-<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/>
-</p>
-
-<br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sid20-rgb&show_icons=true&locale=en&layout=compact" alt="sid20-rgb" /></p>
+## GitHub Stats 📊
+![](https://github-readme-stats.vercel.app/api?username=sid20-rgb&theme=flutter&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sid20-rgb&theme=flutter&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sid20-rgb&theme=flutter&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sid20-rgb&show_icons=true&locale=en" alt="sid20-rgb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sid20-rgb&" alt="sid20-rgb" /></p>
+![](https://visitcount.itsvg.in/api?id=sid20-rgb&label=Profile%20Views&color=0&icon=2&pretty=false)
