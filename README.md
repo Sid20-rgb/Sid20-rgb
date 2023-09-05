@@ -68,6 +68,6 @@
 ## GitHub Stats 📊
 ![](https://github-readme-stats.vercel.app/api?username=sid20-rgb&theme=flutter&hide_border=false&include_all_commits=true&count_private=false)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sid20-rgb&theme=flutter&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sid20-rgb&theme=flutter&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sid20-rgb&theme=flutter&hide_border=false&include_all_commits=true&count_public=true&layout=compact)<br/><br/>
 
 ![](https://visitcount.itsvg.in/api?id=sid20-rgb&label=Profile%20Views&color=0&icon=2&pretty=false)
